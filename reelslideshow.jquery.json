@@ -1,0 +1,25 @@
+{
+  "name": "reelslideshow",
+  "title": "Continuous Reel Slideshow",
+  "description": "Continuous Reel Slideshow lets you showcase images in a reel like fashion, one image at a time and in an continuous manner, with no breaks between the first and last slide. The reel can be played from left to right (horizontally), or top down (vertically), and pauses onMouseover. You can implement controls to allow users to manually move the reel forward and backwards, instead of it playing automatically. It's swipe navigation enabled for mobile devices.",
+  "keywords": ["slideshow", "gallery", "images"],
+  "version": "1.1.0",
+  "author": {
+    "name": "Dynamic Drive",
+    "email" : "ddrivehelp@gmail.com",
+		"url": "http://www.dynamicdrive.com"
+  },
+  "licenses": [
+    {
+      "type": "Freeware",
+      "url": "http://www.dynamicdrive.com/notice.htm"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.4"
+  },
+  "homepage": "http://www.dynamicdrive.com/dynamicindex14/reelslideshow.htm",
+  "docs": "http://www.dynamicdrive.com/dynamicindex14/reelslideshow.htm",
+  "demo": "http://www.dynamicdrive.com/dynamicindex14/reelslideshow.htm",
+  "download": "http://www.dynamicdrive.com/dynamicindex14/reelslideshow.htm"
+}
