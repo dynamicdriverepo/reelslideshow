@@ -16,7 +16,7 @@
     }
   ],
   "dependencies": {
-    "jquery": ">=1.4"
+    "jquery": ">=1.4.2"
   },
   "homepage": "http://www.dynamicdrive.com/dynamicindex14/reelslideshow.htm",
   "docs": "http://www.dynamicdrive.com/dynamicindex14/reelslideshow.htm",
